@@ -12,8 +12,8 @@
 .title h1 {
     color: white;
     padding: 5px;
-    
-    
+
+
 }
 
 .link input {
@@ -27,14 +27,15 @@
     justify-content: space-evenly;
 
 }
-.head h1{
+
+.head h1 {
     background-color: aqua;
     width: 40%;
     margin: 0 auto;
     /* width: fit-content; */
 }
 
-.head p{
+.head p {
     font-size: 20px;
 }
 
@@ -54,7 +55,8 @@
     align-items: center;
 
 }
-.button{
+
+.button {
     padding-bottom: 15px;
     height: 10px;
 }
@@ -80,6 +82,7 @@
     text-align: center;
 
 }
+
 .sample {
     padding-top: 5px;
     text-align: center;
@@ -92,16 +95,17 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.a{
+.a {
     margin-top: 20px;
     display: flex;
     justify-content: space-around;
 }
-.a p{
+
+.a p {
     padding: 6px;
 }
 
-.x{
+.x {
     background-color: black;
     height: 300px;
     width: 320px;
@@ -111,34 +115,38 @@
     justify-content: center;
     align-items: center;
 }
-.x h1{
+
+.x h1 {
     color: white;
 }
-.x p{
+
+.x p {
     color: aliceblue;
     text-align: center;
 }
 
-.footer h6{
+.footer h6 {
     padding: 5px;
     background-color: black;
     color: white;
     text-align: center;
 }
 
-.card{
+.card {
 
-
-    padding-top: 30px;
-    margin-left: 40%;
+    padding-top: 50px;
     background-color: rgb(209, 206, 206);
     height: 300px;
-    width: 320px;
+    width: 100%;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-bottom: 90px;
+    padding-bottom: 50px;
 
+}
+
+.another {
+    background-color: gray;
 }
